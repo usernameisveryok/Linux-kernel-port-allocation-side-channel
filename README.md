@@ -1,1 +1,2 @@
 # Linux-kernel-port-allocation-side-channel
+This repository contains a PDF file encrypted with a private key, a public key, and a script to decrypt it. The PDF file includes information about a Linux port allocation side-channel vulnerability that we discovered. This repository serves as proof that we were the first to identify this vulnerability. We will upload the private key after the related paper is published, allowing anyone to decrypt and verify the contents.
